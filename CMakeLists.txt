@@ -18,4 +18,4 @@ set(CMAKE_CXX_STANDARD 23)
 #add_executable(untitled2 main.cpp Algorithms/search-algorithms/LinearSearch.cpp)
 #add_executable(untitled2 main.cpp Algorithms/search-algorithms/BinarySearch.cpp)
 
-add_executable(untitled2 main.cpp DataStructures/CollectionDataStructures/Stack.cpp)
+add_executable(untitled2 main.cpp DataStructures/CollectionDataStructures/Stack.cpp DataStructures/TreeBasedDataStructures/binaryTree.cpp)
